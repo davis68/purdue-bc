@@ -1,2 +1,2 @@
-computational chemistry for nuclear engineering
+computational physics for nuclear engineering
 compiler design
