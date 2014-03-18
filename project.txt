@@ -1,2 +1,2 @@
-computational chemistry for nuclear engineering
+dft simulations for nuclear engineering
 compiler design
